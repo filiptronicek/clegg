@@ -1,0 +1,13 @@
+@font-face {
+    font-family: GTEsti;
+    src: url("../GTEestiProDispTrialBold.woff") format("woff");
+}
+body {
+    font-family: GTEsti;
+    text-align: center;
+}
+@media (prefers-color-scheme: dark) {
+    body {
+    background: #2a2a2e; 
+    }
+}
