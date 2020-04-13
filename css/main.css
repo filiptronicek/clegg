@@ -11,4 +11,7 @@ body {
     background: #2a2a2e; 
     color: #ffffff;
     }
+    header img {
+        filter: invert(1)
+    }
 }
